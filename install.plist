@@ -20,7 +20,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://github.com/hutuwa/iOS_Exercise/blob/main/GPlay.ipa</string>
+					<string>https://github.com/hutuwa/iOS_Exercise/raw/main/GPlay.ipa</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
