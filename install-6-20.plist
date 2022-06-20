@@ -20,7 +20,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>http://10.246.149.53/GPlayDemo.ipa</string>
+					<string>http://172.20.10.4/GPlayDemo.ipa</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
